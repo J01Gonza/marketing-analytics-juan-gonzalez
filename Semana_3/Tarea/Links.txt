@@ -1,0 +1,2 @@
+GitHub: https://github.com/andrespa612/marketing-analytics-base-2026/tree/main/Semana_3
+Streamlit: https://marketing-analytics-base-2026-e86tcfcfczhucq3age4aco.streamlit.app/
